@@ -201,21 +201,14 @@ const App = () => {
 				<div>
 					<p>
 						<a
-							href="https://www.github.com/samkitsamsukha"
+							href="https://www.github.com/huzaif2309"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="hover:underline"
 						>
-							Samkit Samsukha
+							Mohammed Huzaif S
 						</a>{" "}
-						1RV23IS105 | <a
-							href="https://www.github.com/sathvikhegde123"
-							target="_blank"
-							rel="noopener noreferrer"
-							className="hover:underline"
-						>
-							Sathvik Hegde
-						</a> 1RV23IS107
+						1RV23IS073
 					</p>
 				</div>
 			</nav>
@@ -255,7 +248,7 @@ const App = () => {
 				<h2 className="text-xl font-semibold p-5">
 					Enter Resource Requirements for Employees
 				</h2>
-				{["Samkit", "Sathvik", "Varenya", "Vijesh"].map((name, index) => (
+				{["Kashyap", "Mandeep", "Sharath", "AJ"].map((name, index) => (
 					<div key={index} className="mb-2">
 						<h3 className="font-medium mx-4 p-2">{name}</h3>
 						<input
